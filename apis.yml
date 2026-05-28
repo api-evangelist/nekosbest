@@ -1,0 +1,32 @@
+aid: nekosbest
+name: NekosBest
+description: "Neko Images & Anime roleplaying GIFs"
+url: https://docs.nekos.best
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: NekosBest
+    description: "Neko Images & Anime roleplaying GIFs"
+    humanURL: https://docs.nekos.best
+    baseURL: https://docs.nekos.best
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://docs.nekos.best
+common:
+  - type: Website
+    url: https://docs.nekos.best
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

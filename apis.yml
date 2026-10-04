@@ -39,7 +39,6 @@ apis:
   - name: NekosBest
     description: "Neko Images & Anime roleplaying GIFs"
     humanURL: https://docs.nekos.best
-    baseURL: https://docs.nekos.best
     tags:
       - Anime
     properties:
